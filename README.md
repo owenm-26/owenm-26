@@ -17,13 +17,13 @@
 
 <br/>
 
-## About Me
+## Owen Mariani
 
-- 🏫 I'm studying CS and DS at Boston University
+- 🏫 I'm studying CS at Boston University and graduate December 2025
 
 - 💻 On campus I lead organizations dedicated to cultivating industry developer experience 
 
-- ⛹️‍♂️ In my free time, I play basketball and explore the city of Boston
+- ⛹️‍♂️ In my free time, I play basketball and die a bit inside when the 49ers don't win the superbowl
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Owen_Mariani-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/owen-mariani/)
 
